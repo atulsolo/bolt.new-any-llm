@@ -122,5 +122,12 @@
   "resolutions": {
     "@typescript-eslint/utils": "^8.0.0-alpha.30"
   },
-  "packageManager": "pnpm@9.4.0"
+  "packageManager": "pnpm@9.4.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "solo",
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\ASUS\\Desktop\\BOLT.AI\\bolt.new-any-llm"
+  }
 }
